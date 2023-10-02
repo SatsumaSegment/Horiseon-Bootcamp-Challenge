@@ -35,7 +35,7 @@ N/A
 
 ## Usage
 
-The website can be accessed via this link:
+The website can be accessed via this link: https://satsumasegment.github.io/horiseon-bootcamp-challenge/
 
 ## License
 

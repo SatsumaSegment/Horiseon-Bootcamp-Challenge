@@ -20,7 +20,7 @@ Some things I have done to make the code more readable are:
 - Added ids - instead of classes - to one-off elements.
 - Restructured the CSS file so that it corresponds to the layout of the website's HTML.
 
-The images below show some of the changes that I made:
+The images below show some of the changes that I made (original on the right, my refacored code on the left):
 
 ![HTML Comparison](./readme-assets/html-comparison.png)
 As you can see, I have replaced some of the `div` elements on the page with more relevant semantic elements. I have also added `alt` attributes to images and deleted some classes where I thought they were irrelevant.
@@ -36,4 +36,10 @@ N/A
 ## Usage
 
 The website can be accessed via this link:
+
+## License
+
+N/A
+
+
 
